@@ -1,0 +1,23 @@
+
+PREPROCESSING METHODS ANALYSIS SUMMARY REPORT
+Generated on: 2025-08-13 14:13:21
+
+ANALYSIS SCOPE:
+- Total combinations tested: 12
+- Images per class: 2
+- Cell classes analyzed: 5
+- Total processing operations: 120
+
+BEST PERFORMING COMBINATION:
+Method: CLAHE_only
+Pipeline: CLAHE
+Composite Score: 15.6673
+SSIM: 0.9271
+PSNR: 26.33 dB
+Contrast Enhancement: 1.284
+Edge Preservation: 0.6963
+Processing Time: 0.002s
+
+RECOMMENDATION:
+Based on the comprehensive analysis, the 'CLAHE_only' combination 
+provides the best balance of image quality metrics for cervical cancer cell classification.
