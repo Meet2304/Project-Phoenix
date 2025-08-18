@@ -1,0 +1,33 @@
+CERVICAL CANCER INDIVIDUAL CELL PREPROCESSING ANALYSIS - FINAL REPORT
+Generated: 2025-08-14 10:49:45
+
+ANALYSIS SCOPE:
+- Image Type: Individual Cropped Cells from CROPPED folders
+- Preprocessing combinations tested: 12
+- Total cropped cell images processed: 240
+- Cell categories: 5
+- Samples per category: 4
+
+OPTIMAL PREPROCESSING PIPELINE FOR INDIVIDUAL CELLS:
+Method: NLM_only
+Sequence: NLM
+Composite Score: 0.8145
+
+PERFORMANCE METRICS:
+- SSIM: 0.9554 (±0.0214)
+- PSNR: 41.09 dB (±2.32)
+- Contrast Enhancement: 0.9805 (±0.0172)
+- Edge Preservation: 0.1291 (±0.2784)
+- Processing Time: 0.7709 seconds
+
+RECOMMENDATION:
+Implement the NLM_only preprocessing pipeline for cervical cancer individual cell 
+classification to achieve optimal image quality enhancement while preserving 
+critical cellular structures and morphological features.
+
+This analysis provides definitive guidance for preprocessing optimization in 
+cervical cancer individual cell image classification workflows.
+
+IMPORTANT NOTE:
+This analysis was conducted on individual cropped cell images from the CROPPED folders,
+providing insights specifically for single-cell analysis rather than full slide images.
