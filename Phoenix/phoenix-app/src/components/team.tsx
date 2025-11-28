@@ -47,22 +47,22 @@ const members = [
         linkedin: 'https://www.linkedin.com/in/maitri-patel-b42249296/',
         twitter: '#',
     },
-    // {
-    //     name: 'Devanshi Dudhatra',
-    //     role: 'ML Engineer',
-    //     avatar: '/images/team/Devanshi.jpeg',
-    //     github: 'https://github.com/devanshidudhatra',
-    //     linkedin: 'https://www.linkedin.com/in/devanshi-dudhatra-408116253/',
-    //     twitter: 'https://x.com/Devanshi0109',
-    // },
-    // {
-    //     name: 'Heet Dobariya',
-    //     role: 'Data Scientist',
-    //     avatar: '/images/team/Heet.jpeg',
-    //     github: 'https://github.com/HeetDobariya07',
-    //     linkedin: 'https://www.linkedin.com/in/heet-dobariya-30758a28a/',
-    //     twitter: 'https://x.com/HeetDobariya63',
-    // },
+    {
+        name: 'Devanshi Dudhatra',
+        role: 'ML Engineer',
+        avatar: '/images/team/Devanshi.jpeg',
+        github: 'https://github.com/devanshidudhatra',
+        linkedin: 'https://www.linkedin.com/in/devanshi-dudhatra-408116253/',
+        twitter: 'https://x.com/Devanshi0109',
+    },
+    {
+        name: 'Heet Dobariya',
+        role: 'Data Scientist',
+        avatar: '/images/team/Heet.jpeg',
+        github: 'https://github.com/HeetDobariya07',
+        linkedin: 'https://www.linkedin.com/in/heet-dobariya-30758a28a/',
+        twitter: 'https://x.com/HeetDobariya63',
+    },
 ];
 
 export default function TeamSection() {
