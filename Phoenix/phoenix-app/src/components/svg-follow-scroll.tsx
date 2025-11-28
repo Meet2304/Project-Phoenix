@@ -124,7 +124,8 @@ const processSteps = [
       src: "/images/About/Performance Eval_v0.1.jpg",
       alt: "Performance evaluation metrics"
     },
-    learnMoreLink: "/evaluation"
+    learnMoreLink: "/evaluation",
+    githubLink: "https://github.com/Meet2304/Project-Phoenix/tree/main/Explainability%20Workflows"
   }
 ];
 
