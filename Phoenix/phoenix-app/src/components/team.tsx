@@ -26,7 +26,7 @@ const members = [
     {
         name: 'Dr. Meera Khanna',
         role: 'Guide & Mentor',
-        avatar: '/images/team/DrMeera.jpg',
+        avatar: '/images/team/DrMeera_1.jpg',
         github: 'https://github.com/Meet2304',
         linkedin: 'https://www.linkedin.com/in/dr-meera-thapar-khanna-892696163/',
         twitter: 'https://twitter.com/meetbhatt',
