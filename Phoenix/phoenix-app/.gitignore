@@ -125,3 +125,11 @@ temp/
 # - All files in /public directory
 # - All .tsx, .ts, .jsx, .js files
 # - vercel.json (if present)
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
