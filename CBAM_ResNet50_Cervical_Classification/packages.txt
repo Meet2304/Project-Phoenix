@@ -1,0 +1,13 @@
+freeglut3-dev
+libgtk2.0-dev
+libgl1-mesa-glx
+libgl1-mesa-dev
+libglib2.0-0
+libsm6
+libxext6
+libxrender-dev
+libxrender1
+libgomp1
+libice6
+libfontconfig1
+libxcb1

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model outputs (keep best_model.pth)
+cbam_resnet50_cervical/*.csv
+cbam+resnet_outputs/*
+gradcam_outputs/*
+gradcam_specific_class_outputs/*
+
+# Temporary files
+*.log
+*.tmp

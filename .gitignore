@@ -190,6 +190,9 @@ dmypy.json
 *.pb
 *.tflite
 
+# Exception: Allow specific model file for deployment
+!CBAM_ResNet50_Cervical_Classification/cbam_resnet50_cervical/best_model.pth
+
 # IDE and Editor files
 .vscode/
 .idea/
